@@ -1,4 +1,5 @@
 :host { /*usando o host a declaração dica global em todo o componente*/
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }

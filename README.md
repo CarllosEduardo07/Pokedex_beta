@@ -6,5 +6,5 @@
 
 ## O que foi usado nesse projeto? 
 * fiz o uso de interface
-* conexão com a api usando HttpClientModule e services do angular para separar as informações da api compativel com a interface
+* conexão com a api usando HttpClientModule e services do angular para separar as informações da api compativel com a interface criada.
 

@@ -21,21 +21,21 @@
     margin-bottom: 5px;
     color: #313131;
     margin: 0.5em 0;
+    text-transform: capitalize;
 }
 
 .pokemon-card__types{
     display: flex;
 }
 .pokemon-card__type{
-    margin: 0 10px;
     border-radius: 3px;
-    line-height: 18px;
-    max-width: 110px;
-    width: 38.4375%;
-    float: left;
-    text-align: center;
     font-size: 11px;
-    text-transform: none;
+    line-height: 18px;
+    margin: 0 10px;
+    max-width: 110px;
+    text-align: center;
+    text-transform: capitalize;
+    width: 38.4375%;
 }
 
 /* tipos dos pokemons */

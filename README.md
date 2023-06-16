@@ -1,5 +1,7 @@
 # Pokedex
 
+![Pokedex](https://github.com/CarllosEduardo07/Pokedex/assets/80606019/ff7943ea-e9a0-4cfa-bf68-47b88a9ce345)
+
 #### projeto para praticar a conexção com a api [PokeApi.co](https://pokeapi.co/)
 
 ## O que foi usado nesse projeto? 

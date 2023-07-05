@@ -7,7 +7,7 @@ import { Observable, ReplaySubject, from, map, mergeMap } from 'rxjs';
   providedIn: 'root',
 })
 export class PokemonService {
-  private allPokemonUrl = 'https://pokeapi.co/api/v2/pokemon/?limit=100'; //voce pode definir um limite de pokemons na tela aqui
+  private allPokemonUrl = 'https://pokeapi.co/api/v2/pokemon/?limit=15'; //voce pode definir um limite de pokemons na tela aqui
 
   public pokemons: Pokemon[] = [];
 
